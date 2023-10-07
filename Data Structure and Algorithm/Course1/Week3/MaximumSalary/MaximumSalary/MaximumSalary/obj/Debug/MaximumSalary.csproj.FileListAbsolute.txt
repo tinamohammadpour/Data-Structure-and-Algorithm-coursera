@@ -1,0 +1,7 @@
+E:\Coursera\Course1\Week3\MaximumSalary\MaximumSalary\MaximumSalary\bin\Debug\MaximumSalary.exe.config
+E:\Coursera\Course1\Week3\MaximumSalary\MaximumSalary\MaximumSalary\bin\Debug\MaximumSalary.exe
+E:\Coursera\Course1\Week3\MaximumSalary\MaximumSalary\MaximumSalary\bin\Debug\MaximumSalary.pdb
+E:\Coursera\Course1\Week3\MaximumSalary\MaximumSalary\MaximumSalary\obj\Debug\MaximumSalary.csproj.AssemblyReference.cache
+E:\Coursera\Course1\Week3\MaximumSalary\MaximumSalary\MaximumSalary\obj\Debug\MaximumSalary.csproj.CoreCompileInputs.cache
+E:\Coursera\Course1\Week3\MaximumSalary\MaximumSalary\MaximumSalary\obj\Debug\MaximumSalary.exe
+E:\Coursera\Course1\Week3\MaximumSalary\MaximumSalary\MaximumSalary\obj\Debug\MaximumSalary.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LastDigOfSumOfSquare", "LastDigOfSumOfSquare\LastDigOfSumOfSquare.csproj", "{67A749B4-A77F-4A51-9EA2-4E9117D2039E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67A749B4-A77F-4A51-9EA2-4E9117D2039E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A749B4-A77F-4A51-9EA2-4E9117D2039E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A749B4-A77F-4A51-9EA2-4E9117D2039E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A749B4-A77F-4A51-9EA2-4E9117D2039E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59E64232-EB74-4C78-BAA8-E7691E35CF96}
+	EndGlobalSection
+EndGlobal

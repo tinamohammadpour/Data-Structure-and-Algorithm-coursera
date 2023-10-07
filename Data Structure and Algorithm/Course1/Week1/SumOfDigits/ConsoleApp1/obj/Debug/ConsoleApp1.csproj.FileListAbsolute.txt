@@ -1,0 +1,7 @@
+E:\Coursera\Course1\week1\SumOfDigits\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Coursera\Course1\week1\SumOfDigits\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Coursera\Course1\week1\SumOfDigits\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Coursera\Course1\week1\SumOfDigits\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Coursera\Course1\week1\SumOfDigits\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Coursera\Course1\week1\SumOfDigits\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Coursera\Course1\week1\SumOfDigits\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
