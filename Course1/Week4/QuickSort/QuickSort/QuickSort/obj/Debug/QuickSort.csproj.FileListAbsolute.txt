@@ -1,0 +1,7 @@
+E:\Coursera\Course1\Week4\QuickSort\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+E:\Coursera\Course1\Week4\QuickSort\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+E:\Coursera\Course1\Week4\QuickSort\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+E:\Coursera\Course1\Week4\QuickSort\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.AssemblyReference.cache
+E:\Coursera\Course1\Week4\QuickSort\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+E:\Coursera\Course1\Week4\QuickSort\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+E:\Coursera\Course1\Week4\QuickSort\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
