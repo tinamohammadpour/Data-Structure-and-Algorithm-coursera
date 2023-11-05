@@ -1,0 +1,7 @@
+E:\Coursera\Course1\Week5\MoneyChange\MoneyChange\MoneyChange\bin\Debug\MoneyChange.exe.config
+E:\Coursera\Course1\Week5\MoneyChange\MoneyChange\MoneyChange\bin\Debug\MoneyChange.exe
+E:\Coursera\Course1\Week5\MoneyChange\MoneyChange\MoneyChange\bin\Debug\MoneyChange.pdb
+E:\Coursera\Course1\Week5\MoneyChange\MoneyChange\MoneyChange\obj\Debug\MoneyChange.csproj.AssemblyReference.cache
+E:\Coursera\Course1\Week5\MoneyChange\MoneyChange\MoneyChange\obj\Debug\MoneyChange.csproj.CoreCompileInputs.cache
+E:\Coursera\Course1\Week5\MoneyChange\MoneyChange\MoneyChange\obj\Debug\MoneyChange.exe
+E:\Coursera\Course1\Week5\MoneyChange\MoneyChange\MoneyChange\obj\Debug\MoneyChange.pdb

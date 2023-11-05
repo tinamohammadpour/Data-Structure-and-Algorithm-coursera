@@ -1,0 +1,7 @@
+E:\Coursera\Course1\Week5\PrimitiveCalculator\PrimitiveCalculator\PrimitiveCalculator\obj\Debug\PrimitiveCalculator.csproj.AssemblyReference.cache
+E:\Coursera\Course1\Week5\PrimitiveCalculator\PrimitiveCalculator\PrimitiveCalculator\obj\Debug\PrimitiveCalculator.csproj.CoreCompileInputs.cache
+E:\Coursera\Course1\Week5\PrimitiveCalculator\PrimitiveCalculator\PrimitiveCalculator\bin\Debug\PrimitiveCalculator.exe.config
+E:\Coursera\Course1\Week5\PrimitiveCalculator\PrimitiveCalculator\PrimitiveCalculator\bin\Debug\PrimitiveCalculator.exe
+E:\Coursera\Course1\Week5\PrimitiveCalculator\PrimitiveCalculator\PrimitiveCalculator\bin\Debug\PrimitiveCalculator.pdb
+E:\Coursera\Course1\Week5\PrimitiveCalculator\PrimitiveCalculator\PrimitiveCalculator\obj\Debug\PrimitiveCalculator.exe
+E:\Coursera\Course1\Week5\PrimitiveCalculator\PrimitiveCalculator\PrimitiveCalculator\obj\Debug\PrimitiveCalculator.pdb

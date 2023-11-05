@@ -1,0 +1,7 @@
+E:\Coursera\Course1\Week5\EditDistance\EditDistance\EditDistance\bin\Debug\EditDistance.exe.config
+E:\Coursera\Course1\Week5\EditDistance\EditDistance\EditDistance\bin\Debug\EditDistance.exe
+E:\Coursera\Course1\Week5\EditDistance\EditDistance\EditDistance\bin\Debug\EditDistance.pdb
+E:\Coursera\Course1\Week5\EditDistance\EditDistance\EditDistance\obj\Debug\EditDistance.csproj.AssemblyReference.cache
+E:\Coursera\Course1\Week5\EditDistance\EditDistance\EditDistance\obj\Debug\EditDistance.csproj.CoreCompileInputs.cache
+E:\Coursera\Course1\Week5\EditDistance\EditDistance\EditDistance\obj\Debug\EditDistance.exe
+E:\Coursera\Course1\Week5\EditDistance\EditDistance\EditDistance\obj\Debug\EditDistance.pdb
